@@ -15,11 +15,12 @@ Next we need to add “.gitignore”
 Copy the content from [here](https://github.com/wc351/PyCharm_to_GitHub/blob/master/.gitignore) and simply paste it into the file that you create in your project. The reason for the GitIgnore is PyCharm will try to add an .idea file to your repository. If this is added it will cause problems with your project each time you try to upload it or download it from the repository.
 
 Your project folder should look like this:
-![Directory](https://github.com/wc351/PyCharm_to_GitHub/blob/master/images/PyCharm_images/PC_directory.png)
+![Directory](https://raw.githubusercontent.com/wc351/PyCharm_to_GitHub/blob/master/images/PyCharm_images/PC_directory.png)
+
 ## Step 3
 
  Now that you have added these two files go to the VCS tab at the top of PyCharm. Under the VCS tab scroll down to “import into version control”, then “share project on GitHub”. It should look like this:
-![VCS](https://github.com/wc351/PyCharm_to_GitHub/blob/master/images/PyCharm_images/VCS.png)
+![VCS](https://raw.githubusercontent.com/wc351/PyCharm_to_GitHub/blob/master/images/PyCharm_images/VCS.png)
 
 
 
