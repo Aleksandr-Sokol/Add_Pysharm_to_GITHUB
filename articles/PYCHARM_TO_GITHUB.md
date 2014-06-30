@@ -23,14 +23,11 @@ Your project folder should look like this:
 ![VCS](https://raw.githubusercontent.com/wc351/PyCharm_to_GitHub/master/images/PyCharm_images/VCS.png)
 
 
-
 This will bring up a pop-up asking you for a New Repository name and it will automatically fill in the box with the Project name. Don’t change this name, give it a brief description. And then click share.
 
+![Share](https://raw.githubusercontent.com/wc351/PyCharm_to_GitHub/master/images/PyCharm_images/Share_Project.png)
 
+On the next pop-up box that appears it is asking for the initial files to commit, all of them should be checked and since this is your first commit leave the message as "Initial commit", next just click ok and you now have your project on GitHub. 
 
-
-
-
-On the next pop-up box that appears it is asking for the initial files to commit, all of them should be checked and since this is your first commit leave the message as initial commit.
-
+![IC](https://raw.githubusercontent.com/wc351/PyCharm_to_GitHub/master/images/PyCharm_images/IC.png)
 
