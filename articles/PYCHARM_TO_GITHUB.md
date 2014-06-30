@@ -12,7 +12,7 @@ First thing you need to do is create a “README.md” file if you haven't alrea
 
 Next we need to add “.gitignore” 
 
-Copy the content from [here](https://github.com/wc351/PyCharm_to_GitHub/blob/master/.gitignore) and simply paste it into the file that you create in your project. The reason for the GitIgnore is PyCharm will try to add an .idea file to your repository. If this is added it will cause problems with your project each time you try to upload it or download it from the repository.
+Copy the content from [HERE](https://github.com/wc351/PyCharm_to_GitHub/blob/master/.gitignore) and simply paste it into the file that you create in your project. The reason for the GitIgnore is PyCharm will try to add an .idea file to your repository. If this is added it will cause problems with your project each time you try to upload it or download it from the repository.
 
 Your project folder should look like this:
 ![Directory](https://raw.githubusercontent.com/wc351/PyCharm_to_GitHub/master/images/PyCharm_images/PC_directory.png)
